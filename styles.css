@@ -1,0 +1,17 @@
+main{
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem;
+
+}
+i{
+    cursor: pointer;
+}
+#msg {
+    color: red;
+}
+#posts div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
